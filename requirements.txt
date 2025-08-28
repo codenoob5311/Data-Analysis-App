@@ -1,3 +1,2 @@
-Streamlit == 1.48.1
-Plotly = 6.3.0
-matplotlib = 3.10.5
+streamlit == 1.48.1
+plotly == 6.3.0
